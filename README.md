@@ -1,1 +1,1 @@
-# simple_calculator
+# simple_calculator built using c programming language 
